@@ -1,0 +1,6 @@
+build
+sdkconfig
+.vim
+.cache
+.clangd
+managed_components
